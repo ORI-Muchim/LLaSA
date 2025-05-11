@@ -115,3 +115,4 @@ xcodec2
 xxhash
 yarl
 zipp
+pydantic==2.10.6
