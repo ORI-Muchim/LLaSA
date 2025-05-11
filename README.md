@@ -75,3 +75,7 @@ LLaSA integrates several models:
   year={2025}
 }
 ```
+
+## Reference
+
+[project-elnino/FastAudioSR](https://github.com/project-elnino/FastAudioSR)
